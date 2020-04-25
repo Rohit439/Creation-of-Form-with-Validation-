@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>Registration Form</title>
+</head>
+<body bgcolor="#A020F0">
+<h1><u>Registration Form</h1></u>
+<form <form action="http://www.wikipedia.org.com">
+<img width="200" src="E:\pics\WhatsApp_Images\IMG-20191001-WA0003~2.jpg"/>>
+<p><label for="First Name">First Name:</label>
+<input id="text" placeholder="First Name" required>
+<label for="Last Name">Last Name:</label>
+<input id="Last Name" placeholder="Last Name" required></p>
+<p><label for="Male">Male:</label>
+<input id="Male" type="radio">
+<label for="Female">Female:</label>
+<input id="Female" type="radio">
+<label for="Other">Other:</label>
+<input id="Other" type="radio"></p>
+<p><label for="Email">Email:</label>
+<input id="text" placeholder="Email" required>
+<label for="Password">password:</label>
+<input id="password" placeholder="password" required></p>
+<div>
+<label>
+Birthday:
+<select>
+<option>January</option>
+<option>Febuary</option>
+<option>march</option>
+<option>april</option>
+<option>may</option>
+<option>june</option>
+<option>july</option>
+<option>august</option>
+<option>september</option>
+<option>october</option>
+<option>November</option>
+<option>December</option>
+</select>
+
+<select>
+<option>10</option>
+<option>20</option>
+<option>30</option>
+<option>40</option>
+<option>50</option>
+<option>60</option>
+<option>70</option>
+<option>80</option>
+<option>90</option>
+<option>100</option>
+</select>
+
+<select>
+<option>1995</option>
+<option>1996</option>
+<option>1997</option>
+<option>1998</option>
+<option>1999</option>
+<option>2000</option>
+<option>2001</option>
+<option>2002</option>
+<option>2003</option>
+<option>2004</option>
+</select>
+<p>
+<input type="submit">
+</p>
+</form>
+</body>
+</html>
